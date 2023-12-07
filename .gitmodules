@@ -1,6 +1,0 @@
-[submodule "Crack-the-code-Python"]
-	path = Crack-the-code-Python
-	url = https://github.com/abnsol/Crack-the-code-Python.git
-[submodule "Rock-Paper-Scissors"]
-	path = Rock-Paper-Scissors
-	url = https://github.com/abnsol/Rock-Paper-Scissors-Python.git
